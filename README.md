@@ -3,11 +3,7 @@ Pre requisite:
 
 User should have the Android-Studio installed in his machine
 
-Note:
-
-=======================
 Things done:
-=======================
 
 1. This project requires us to show an ad.
 2. To show an ad we need two parameters,
